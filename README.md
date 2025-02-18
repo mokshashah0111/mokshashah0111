@@ -1,6 +1,7 @@
 
 👋Hi, I'm Moksha Shah,
 -I'm a passionate software engineer and competitive programmer with a strong interest in artificial intelligence and machine learning. Currently, I'm pursuing my Master's in Computer Science from Cal State East Bay and actively seeking internship opportunities to apply and expand my skills.
+
 💡 What I Do:
 -Develop efficient and scalable software solutions.
 -Solve algorithmic challenges in competitive programming.
