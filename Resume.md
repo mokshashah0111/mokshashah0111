@@ -62,4 +62,4 @@ Repo: https://github.com/mokshashah0111/Cold-Email-Generator
 - LinkedIn: https://www.linkedin.com/in/moksha0111  
 - GitHub: https://github.com/mokshashah0111
 - LeetCode: https://leetcode.com/moksha0111  
-- PDF Resume (if you keep it in this repo): [`Resume.pdf`](./Resume.pdf)
+- PDF Resume: [`Resume.pdf`](./Resume.pdf)
