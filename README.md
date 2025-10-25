@@ -39,8 +39,8 @@
 
 ### 📫 Connect With Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/your-leetcode-username" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.linkedin.com/in/moksha0111/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/moksha0111" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="https://your-portfolio-link.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000.svg?&style=for-the-badge&logo=About.me&logoColor=white" /></a>
   <a href="https://your-resume-link.com" target="_blank"><img src="https://img.shields.io/badge/Resume-DC143C.svg?&style=for-the-badge&logo=read-the-docs&logoColor=white" /></a>
 </p>
