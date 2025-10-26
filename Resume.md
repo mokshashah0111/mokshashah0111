@@ -38,14 +38,13 @@ Aspiring Software Engineer focused on **AI/ML infrastructure** and **backend dev
 - Automated outreach workflow; **~80%** outreach reduction and **~90%** job↔portfolio match accuracy using vector search (cosine similarity).  
 Repo: https://github.com/mokshashah0111/Cold-Email-Generator
 
-**AI Chatbot** — Python, LLaMA, Flask, Gradio, AWS, Docker  
-- Fine-tuned model (Keras/Gradio) with **~85%** accuracy; deployed on AWS EC2 with Docker.
-
 **Personality Classification** — C++/Azure ML Studio, K-Means, Decision Forest  
 - End-to-end ML pipeline on a **20K×30** dataset (MLTable ingestion, scaling, label handling, splits).
+Repo: https://github.com/mokshashah0111/Personality-Detection
 
 **Facial/Emotion Recognition** — PyTorch/TensorFlow, OpenCV, TensorRT  
 - **~77%** accuracy across 7 classes; **~30%** lower latency via cross-validation, augmentation, TensorRT.
+
 
 **Music Artist Recommender** — Collaborative Filtering + NLP, Implicit  
 - **~94%** top-N precision; training **~40%** faster with Implicit on Spark; evaluated with MAP@10 & RMSE.

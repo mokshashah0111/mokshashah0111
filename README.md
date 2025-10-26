@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hi, I'm <a href="https://github.com/mokshashah0111" target="_blank">Moksha Shah</a></h1>
-<h3 align="center">💻 Software Engineer | 🤖 AI/ML Enthusiast | 🧠 Competitive Programmer</h3>
+<h3 align="center">💻 Software Engineer | 🤖 AI/ML Enthusiast</h3>
 
 ---
 
@@ -14,8 +14,7 @@
 ### 💡 What I Do  
 - 💻 Develop **efficient & scalable software solutions**.  
 - 🧠 Solve algorithmic challenges through **competitive programming**.  
-- 🤖 Explore **AI/ML applications** for data-driven insights and automation.  
-- 🧩 Collaborate on open-source or innovative projects that make an impact.  
+- 🤖 Explore **AI/ML applications** for data-driven insights and automation.   
 
 ---
 
@@ -25,7 +24,7 @@
 | **Languages** | Python · C/C++ · Go (Golang) · HTML · CSS · JavaScript · React · TypeScript · NodeJS |
 | **Databases & Backend** | MySQL · ChromaDB · REST APIs |
 | **Tools & Platforms** | Git · Docker · Linux · VS Code |
-| **Core Interests** | Machine Learning · AI Applications · Competitive Programming |
+| **Core Interests** | Machine Learning · AI Applications · Phyical AI · Backend Development |
 
 ---
 
@@ -50,7 +49,7 @@
 ### ⚡ Fun Facts  
 - 🌍 I’m an international student passionate about global tech communities.  
 - 🧩 I believe in continuous learning — one bug fix at a time.  
-- 🎯 Motto: *“Code. Learn. Repeat.”*
+- 🎯 Motto: *“Code. Learn. Optmize. Repeat.”*
 
 ---
 
